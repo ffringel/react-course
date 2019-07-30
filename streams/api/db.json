@@ -11,10 +11,16 @@
       "id": 2
     },
     {
-      "title": "I Created this Stream",
-      "description": "This is a stream created by me.",
+      "title": "React Tutorials",
+      "description": "This stream is a react course tutorials by Blaise",
       "userId": "118006534492479069687",
       "id": 3
+    },
+    {
+      "title": "Apex Legend",
+      "description": "Watch me battle the best in the world of Apex legend",
+      "userId": "118006534492479069687",
+      "id": 4
     }
   ]
 }
